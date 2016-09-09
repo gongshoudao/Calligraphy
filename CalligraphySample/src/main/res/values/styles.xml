@@ -62,7 +62,7 @@
 
     <!-- Custom Class Styles -->
     <style name="TextField" parent="android:Widget.Holo.Light.TextView">
-        <item name="fontPath">fonts/gtw.ttf</item>
+        <item name="fontPath">fonts/NotoSansCJKsc-Thin.otf</item>
         <item name="android:textSize">@dimen/abc_text_size_small_material</item>
     </style>
 

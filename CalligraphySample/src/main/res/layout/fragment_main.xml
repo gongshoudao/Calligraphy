@@ -99,7 +99,7 @@
 
         <EditText
             android:id="@+id/edit_text"
-            fontPath="fonts/Roboto-Bold.ttf"
+            fontPath="fonts/SourceHanSansCN-Light.otf"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
